@@ -1,0 +1,41 @@
+.footer {
+  padding: 24px 0;
+}
+
+.footer__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 32px;
+  padding: 32px 0 0;
+  border-top: 1px solid var(--beige);
+}
+
+.footer__logo {
+  max-width: 222px;
+
+}
+
+.footer__copyright {
+  font-size: 14px;
+  color: var(--beige);
+}
+
+.footer__developers {}
+
+.footer__developer {}
+
+.footer__link {
+  font-size: 14px;
+  line-height: 1.4;
+  color: var(--beige);
+  transition: color .3s ease-in-out;
+}
+
+.footer__link:hover {
+  color: var(--orange);
+}
+
+.footer__link:active {
+  color: var(--black);
+}
