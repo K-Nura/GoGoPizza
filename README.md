@@ -39,6 +39,11 @@
 1. Склонируйте репозиторий:  
    ```bash
    git clone https://github.com/Kitayev-Nurakhmet/GoGoPizza.git
+2. Перейдите в директорию проекта:
+      ```bash
+      cd GoGoPizza
+3. Откройте файл index.html в вашем браузере для просмотра сайта.
+
 ![Главная страница](https://github.com/Kitayev-Nurakhmet/GoGoPizza/blob/main/img/GoGo-Pizza.png)
 
 
